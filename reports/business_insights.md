@@ -1,7 +1,7 @@
-Business Insights
+# Business Insights
 
-1.Initial Findings - Order Items Dataset
-Dataset: olist_order_items_dataset.csv
+# 1.Initial Findings - Order Items Dataset
+# Dataset: olist_order_items_dataset.csv
 
 Total record: 112,650
 
@@ -47,7 +47,7 @@ The following items require further investigation:
 2. Count and inspect records with zero freight value.
 3. Investigate unusually high freight values.
 
-Status: Preliminary findings. No data has been modified or removed.
+# Status: Preliminary findings. No data has been modified or removed.
 
 # 1.4 Freight Value - Preliminary Observation
 - 383 records (approximately 0.34% of all order items) have zero freight value.
